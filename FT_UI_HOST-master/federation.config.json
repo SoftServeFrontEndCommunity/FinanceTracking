@@ -1,0 +1,6 @@
+{
+  "name": "container",
+  "exposes": {
+    "./types/storeState": "./src/types/storeState.ts"
+  }
+}

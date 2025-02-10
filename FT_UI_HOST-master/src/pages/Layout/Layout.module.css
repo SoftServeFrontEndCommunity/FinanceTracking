@@ -1,0 +1,13 @@
+.navBar {
+  display: Flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
+  margin-bottom: 4rem;
+  padding: 16px;
+}
+
+.iconCustom {
+  width: 24px;
+  height: 24px;
+}
